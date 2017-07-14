@@ -17,10 +17,10 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "async": "^1.5.0",
+    "async": "^2.5.0",
     "atom-space-pen-views": "^2.0.5",
-    "git-up": "^1.2.0",
-    "github": "^0.2.4"
+    "git-up": "^2.0.8",
+    "github": "^9.2.0"
   },
   "consumedServices": {
     "imdone": {
